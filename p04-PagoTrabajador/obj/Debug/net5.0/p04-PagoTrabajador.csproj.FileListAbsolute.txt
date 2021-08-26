@@ -1,0 +1,16 @@
+C:\REPO\DevAppWeb21\p04-PAgoTrabajador\bin\Debug\net5.0\p04-PagoTrabajador.exe
+C:\REPO\DevAppWeb21\p04-PAgoTrabajador\bin\Debug\net5.0\p04-PagoTrabajador.deps.json
+C:\REPO\DevAppWeb21\p04-PAgoTrabajador\bin\Debug\net5.0\p04-PagoTrabajador.runtimeconfig.json
+C:\REPO\DevAppWeb21\p04-PAgoTrabajador\bin\Debug\net5.0\p04-PagoTrabajador.runtimeconfig.dev.json
+C:\REPO\DevAppWeb21\p04-PAgoTrabajador\bin\Debug\net5.0\p04-PagoTrabajador.dll
+C:\REPO\DevAppWeb21\p04-PAgoTrabajador\bin\Debug\net5.0\ref\p04-PagoTrabajador.dll
+C:\REPO\DevAppWeb21\p04-PAgoTrabajador\bin\Debug\net5.0\p04-PagoTrabajador.pdb
+C:\REPO\DevAppWeb21\p04-PAgoTrabajador\obj\Debug\net5.0\p04-PagoTrabajador.csproj.AssemblyReference.cache
+C:\REPO\DevAppWeb21\p04-PAgoTrabajador\obj\Debug\net5.0\p04-PagoTrabajador.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPO\DevAppWeb21\p04-PAgoTrabajador\obj\Debug\net5.0\p04-PagoTrabajador.AssemblyInfoInputs.cache
+C:\REPO\DevAppWeb21\p04-PAgoTrabajador\obj\Debug\net5.0\p04-PagoTrabajador.AssemblyInfo.cs
+C:\REPO\DevAppWeb21\p04-PAgoTrabajador\obj\Debug\net5.0\p04-PagoTrabajador.csproj.CoreCompileInputs.cache
+C:\REPO\DevAppWeb21\p04-PAgoTrabajador\obj\Debug\net5.0\p04-PagoTrabajador.dll
+C:\REPO\DevAppWeb21\p04-PAgoTrabajador\obj\Debug\net5.0\ref\p04-PagoTrabajador.dll
+C:\REPO\DevAppWeb21\p04-PAgoTrabajador\obj\Debug\net5.0\p04-PagoTrabajador.pdb
+C:\REPO\DevAppWeb21\p04-PAgoTrabajador\obj\Debug\net5.0\p04-PagoTrabajador.genruntimeconfig.cache
