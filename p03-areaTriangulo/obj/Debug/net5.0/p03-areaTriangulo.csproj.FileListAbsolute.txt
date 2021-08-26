@@ -1,0 +1,16 @@
+C:\REPO\DevAppWeb21\p03-areaTriangulo\bin\Debug\net5.0\p03-areaTriangulo.exe
+C:\REPO\DevAppWeb21\p03-areaTriangulo\bin\Debug\net5.0\p03-areaTriangulo.deps.json
+C:\REPO\DevAppWeb21\p03-areaTriangulo\bin\Debug\net5.0\p03-areaTriangulo.runtimeconfig.json
+C:\REPO\DevAppWeb21\p03-areaTriangulo\bin\Debug\net5.0\p03-areaTriangulo.runtimeconfig.dev.json
+C:\REPO\DevAppWeb21\p03-areaTriangulo\bin\Debug\net5.0\p03-areaTriangulo.dll
+C:\REPO\DevAppWeb21\p03-areaTriangulo\bin\Debug\net5.0\ref\p03-areaTriangulo.dll
+C:\REPO\DevAppWeb21\p03-areaTriangulo\bin\Debug\net5.0\p03-areaTriangulo.pdb
+C:\REPO\DevAppWeb21\p03-areaTriangulo\obj\Debug\net5.0\p03-areaTriangulo.csproj.AssemblyReference.cache
+C:\REPO\DevAppWeb21\p03-areaTriangulo\obj\Debug\net5.0\p03-areaTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPO\DevAppWeb21\p03-areaTriangulo\obj\Debug\net5.0\p03-areaTriangulo.AssemblyInfoInputs.cache
+C:\REPO\DevAppWeb21\p03-areaTriangulo\obj\Debug\net5.0\p03-areaTriangulo.AssemblyInfo.cs
+C:\REPO\DevAppWeb21\p03-areaTriangulo\obj\Debug\net5.0\p03-areaTriangulo.csproj.CoreCompileInputs.cache
+C:\REPO\DevAppWeb21\p03-areaTriangulo\obj\Debug\net5.0\p03-areaTriangulo.dll
+C:\REPO\DevAppWeb21\p03-areaTriangulo\obj\Debug\net5.0\ref\p03-areaTriangulo.dll
+C:\REPO\DevAppWeb21\p03-areaTriangulo\obj\Debug\net5.0\p03-areaTriangulo.pdb
+C:\REPO\DevAppWeb21\p03-areaTriangulo\obj\Debug\net5.0\p03-areaTriangulo.genruntimeconfig.cache
