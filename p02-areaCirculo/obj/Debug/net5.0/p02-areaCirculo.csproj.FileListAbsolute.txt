@@ -1,0 +1,16 @@
+C:\REPO\DevAppWeb21\p02-areaCirculo\bin\Debug\net5.0\p02-areaCirculo.exe
+C:\REPO\DevAppWeb21\p02-areaCirculo\bin\Debug\net5.0\p02-areaCirculo.deps.json
+C:\REPO\DevAppWeb21\p02-areaCirculo\bin\Debug\net5.0\p02-areaCirculo.runtimeconfig.json
+C:\REPO\DevAppWeb21\p02-areaCirculo\bin\Debug\net5.0\p02-areaCirculo.runtimeconfig.dev.json
+C:\REPO\DevAppWeb21\p02-areaCirculo\bin\Debug\net5.0\p02-areaCirculo.dll
+C:\REPO\DevAppWeb21\p02-areaCirculo\bin\Debug\net5.0\ref\p02-areaCirculo.dll
+C:\REPO\DevAppWeb21\p02-areaCirculo\bin\Debug\net5.0\p02-areaCirculo.pdb
+C:\REPO\DevAppWeb21\p02-areaCirculo\obj\Debug\net5.0\p02-areaCirculo.csproj.AssemblyReference.cache
+C:\REPO\DevAppWeb21\p02-areaCirculo\obj\Debug\net5.0\p02-areaCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPO\DevAppWeb21\p02-areaCirculo\obj\Debug\net5.0\p02-areaCirculo.AssemblyInfoInputs.cache
+C:\REPO\DevAppWeb21\p02-areaCirculo\obj\Debug\net5.0\p02-areaCirculo.AssemblyInfo.cs
+C:\REPO\DevAppWeb21\p02-areaCirculo\obj\Debug\net5.0\p02-areaCirculo.csproj.CoreCompileInputs.cache
+C:\REPO\DevAppWeb21\p02-areaCirculo\obj\Debug\net5.0\p02-areaCirculo.dll
+C:\REPO\DevAppWeb21\p02-areaCirculo\obj\Debug\net5.0\ref\p02-areaCirculo.dll
+C:\REPO\DevAppWeb21\p02-areaCirculo\obj\Debug\net5.0\p02-areaCirculo.pdb
+C:\REPO\DevAppWeb21\p02-areaCirculo\obj\Debug\net5.0\p02-areaCirculo.genruntimeconfig.cache
