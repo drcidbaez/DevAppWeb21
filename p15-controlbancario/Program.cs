@@ -6,7 +6,7 @@ namespace p15_controlbancario
     {
         static void Main(string[] args)
         {
-            Banco mibanco = new Banco("Banco del norte SA de CV","priva las cumbres 123");
+            Banco mibanco = new Banco("Banco del Norte SA de CV","Privada Las Cumbres 123");
             
             CuentaBancaria cta1 = new CuentaBancaria();
             CuentaBancaria cta2 = new CuentaBancaria(100);
@@ -44,14 +44,14 @@ namespace p15_controlbancario
             Console.WriteLine($"El saldo de la cuenta 1 es {cta2.saldo}");
             Console.WriteLine($"El saldo de la cuenta 1 es {cta3.saldo}");
 
-            Console.WriteLine($"Cliente 1 {cte1.nombre},{cte1.apeido} saldo en cuenta {cte1.cuenta.saldo}");
-            Console.WriteLine($"Cliente 2 {cte2.nombre},{cte2.apeido} saldo en cuenta {cte2.cuenta.saldo}");
-            Console.WriteLine($"Cliente 2 {cte3.nombre},{cte3.apeido} saldo en cuenta {cte2.cuenta.saldo}");
+            Console.WriteLine($"Cliente 1 {cte1.nombre},{cte1.apellido} saldo en cuenta {cte1.cuenta.saldo}");
+            Console.WriteLine($"Cliente 2 {cte2.nombre},{cte2.apellido} saldo en cuenta {cte2.cuenta.saldo}");
+            Console.WriteLine($"Cliente 2 {cte3.nombre},{cte3.apellido} saldo en cuenta {cte2.cuenta.saldo}");
 
             // Reporte de clientes del banco
             Console.WriteLine($"\nReporte de clientes del banco {mibanco.nombre}, {mibanco.direccion}");
             foreach(Cliente cte in mibanco.clientes) {
-                Console.WriteLine($"Cliente 2 {cte.nombre},{cte.apeido} saldo en cuenta {cte.cuenta.saldo}");
+                Console.WriteLine($"Cliente 2 {cte.nombre},{cte.apellido} saldo en cuenta {cte.cuenta.saldo}");
             }
             Console.WriteLine($"Total de clientes {mibanco.clientes.Count}");
             

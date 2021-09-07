@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/Users/castr/.nuget/packages/": {}
+    "C:\\Users\\usuario\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p15-controlbancario/p15-controlbancario.csproj",
+      "projectUniqueName": "C:\\REPO\\DevAppWeb21\\p15-controlbancario\\p15-controlbancario.csproj",
       "projectName": "p15-controlbancario",
-      "projectPath": "/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p15-controlbancario/p15-controlbancario.csproj",
-      "packagesPath": "/Users/castr/.nuget/packages/",
-      "outputPath": "/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p15-controlbancario/obj/",
+      "projectPath": "C:\\REPO\\DevAppWeb21\\p15-controlbancario\\p15-controlbancario.csproj",
+      "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\REPO\\DevAppWeb21\\p15-controlbancario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/castr/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
