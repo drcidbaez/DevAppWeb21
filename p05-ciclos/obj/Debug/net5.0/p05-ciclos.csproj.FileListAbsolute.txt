@@ -1,0 +1,16 @@
+C:\REPO\DevAppWeb21\p05-ciclos\bin\Debug\net5.0\p05-ciclos.exe
+C:\REPO\DevAppWeb21\p05-ciclos\bin\Debug\net5.0\p05-ciclos.deps.json
+C:\REPO\DevAppWeb21\p05-ciclos\bin\Debug\net5.0\p05-ciclos.runtimeconfig.json
+C:\REPO\DevAppWeb21\p05-ciclos\bin\Debug\net5.0\p05-ciclos.runtimeconfig.dev.json
+C:\REPO\DevAppWeb21\p05-ciclos\bin\Debug\net5.0\p05-ciclos.dll
+C:\REPO\DevAppWeb21\p05-ciclos\bin\Debug\net5.0\ref\p05-ciclos.dll
+C:\REPO\DevAppWeb21\p05-ciclos\bin\Debug\net5.0\p05-ciclos.pdb
+C:\REPO\DevAppWeb21\p05-ciclos\obj\Debug\net5.0\p05-ciclos.csproj.AssemblyReference.cache
+C:\REPO\DevAppWeb21\p05-ciclos\obj\Debug\net5.0\p05-ciclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPO\DevAppWeb21\p05-ciclos\obj\Debug\net5.0\p05-ciclos.AssemblyInfoInputs.cache
+C:\REPO\DevAppWeb21\p05-ciclos\obj\Debug\net5.0\p05-ciclos.AssemblyInfo.cs
+C:\REPO\DevAppWeb21\p05-ciclos\obj\Debug\net5.0\p05-ciclos.csproj.CoreCompileInputs.cache
+C:\REPO\DevAppWeb21\p05-ciclos\obj\Debug\net5.0\p05-ciclos.dll
+C:\REPO\DevAppWeb21\p05-ciclos\obj\Debug\net5.0\ref\p05-ciclos.dll
+C:\REPO\DevAppWeb21\p05-ciclos\obj\Debug\net5.0\p05-ciclos.pdb
+C:\REPO\DevAppWeb21\p05-ciclos\obj\Debug\net5.0\p05-ciclos.genruntimeconfig.cache
