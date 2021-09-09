@@ -1,0 +1,5 @@
+C:\REPO\DevAppWeb21\p16-controlbancariov2\obj\Debug\net5.0\p16_controlbancariov2.csproj.AssemblyReference.cache
+C:\REPO\DevAppWeb21\p16-controlbancariov2\obj\Debug\net5.0\p16_controlbancariov2.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPO\DevAppWeb21\p16-controlbancariov2\obj\Debug\net5.0\p16_controlbancariov2.AssemblyInfoInputs.cache
+C:\REPO\DevAppWeb21\p16-controlbancariov2\obj\Debug\net5.0\p16_controlbancariov2.AssemblyInfo.cs
+C:\REPO\DevAppWeb21\p16-controlbancariov2\obj\Debug\net5.0\p16_controlbancariov2.csproj.CoreCompileInputs.cache
