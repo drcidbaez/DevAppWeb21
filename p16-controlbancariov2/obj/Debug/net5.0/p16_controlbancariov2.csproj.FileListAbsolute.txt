@@ -3,3 +3,14 @@ C:\REPO\DevAppWeb21\p16-controlbancariov2\obj\Debug\net5.0\p16_controlbancariov2
 C:\REPO\DevAppWeb21\p16-controlbancariov2\obj\Debug\net5.0\p16_controlbancariov2.AssemblyInfoInputs.cache
 C:\REPO\DevAppWeb21\p16-controlbancariov2\obj\Debug\net5.0\p16_controlbancariov2.AssemblyInfo.cs
 C:\REPO\DevAppWeb21\p16-controlbancariov2\obj\Debug\net5.0\p16_controlbancariov2.csproj.CoreCompileInputs.cache
+C:\REPO\DevAppWeb21\p16-controlbancariov2\bin\Debug\net5.0\p16_controlbancariov2.exe
+C:\REPO\DevAppWeb21\p16-controlbancariov2\bin\Debug\net5.0\p16_controlbancariov2.deps.json
+C:\REPO\DevAppWeb21\p16-controlbancariov2\bin\Debug\net5.0\p16_controlbancariov2.runtimeconfig.json
+C:\REPO\DevAppWeb21\p16-controlbancariov2\bin\Debug\net5.0\p16_controlbancariov2.runtimeconfig.dev.json
+C:\REPO\DevAppWeb21\p16-controlbancariov2\bin\Debug\net5.0\p16_controlbancariov2.dll
+C:\REPO\DevAppWeb21\p16-controlbancariov2\bin\Debug\net5.0\ref\p16_controlbancariov2.dll
+C:\REPO\DevAppWeb21\p16-controlbancariov2\bin\Debug\net5.0\p16_controlbancariov2.pdb
+C:\REPO\DevAppWeb21\p16-controlbancariov2\obj\Debug\net5.0\p16_controlbancariov2.dll
+C:\REPO\DevAppWeb21\p16-controlbancariov2\obj\Debug\net5.0\ref\p16_controlbancariov2.dll
+C:\REPO\DevAppWeb21\p16-controlbancariov2\obj\Debug\net5.0\p16_controlbancariov2.pdb
+C:\REPO\DevAppWeb21\p16-controlbancariov2\obj\Debug\net5.0\p16_controlbancariov2.genruntimeconfig.cache
