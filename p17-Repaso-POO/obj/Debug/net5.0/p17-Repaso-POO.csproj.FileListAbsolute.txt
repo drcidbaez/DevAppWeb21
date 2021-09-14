@@ -1,0 +1,16 @@
+C:\REPO\DevAppWeb21\p17-Repaso-POO\bin\Debug\net5.0\p17-Repaso-POO.exe
+C:\REPO\DevAppWeb21\p17-Repaso-POO\bin\Debug\net5.0\p17-Repaso-POO.deps.json
+C:\REPO\DevAppWeb21\p17-Repaso-POO\bin\Debug\net5.0\p17-Repaso-POO.runtimeconfig.json
+C:\REPO\DevAppWeb21\p17-Repaso-POO\bin\Debug\net5.0\p17-Repaso-POO.runtimeconfig.dev.json
+C:\REPO\DevAppWeb21\p17-Repaso-POO\bin\Debug\net5.0\p17-Repaso-POO.dll
+C:\REPO\DevAppWeb21\p17-Repaso-POO\bin\Debug\net5.0\ref\p17-Repaso-POO.dll
+C:\REPO\DevAppWeb21\p17-Repaso-POO\bin\Debug\net5.0\p17-Repaso-POO.pdb
+C:\REPO\DevAppWeb21\p17-Repaso-POO\obj\Debug\net5.0\p17-Repaso-POO.csproj.AssemblyReference.cache
+C:\REPO\DevAppWeb21\p17-Repaso-POO\obj\Debug\net5.0\p17-Repaso-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPO\DevAppWeb21\p17-Repaso-POO\obj\Debug\net5.0\p17-Repaso-POO.AssemblyInfoInputs.cache
+C:\REPO\DevAppWeb21\p17-Repaso-POO\obj\Debug\net5.0\p17-Repaso-POO.AssemblyInfo.cs
+C:\REPO\DevAppWeb21\p17-Repaso-POO\obj\Debug\net5.0\p17-Repaso-POO.csproj.CoreCompileInputs.cache
+C:\REPO\DevAppWeb21\p17-Repaso-POO\obj\Debug\net5.0\p17-Repaso-POO.dll
+C:\REPO\DevAppWeb21\p17-Repaso-POO\obj\Debug\net5.0\ref\p17-Repaso-POO.dll
+C:\REPO\DevAppWeb21\p17-Repaso-POO\obj\Debug\net5.0\p17-Repaso-POO.pdb
+C:\REPO\DevAppWeb21\p17-Repaso-POO\obj\Debug\net5.0\p17-Repaso-POO.genruntimeconfig.cache
