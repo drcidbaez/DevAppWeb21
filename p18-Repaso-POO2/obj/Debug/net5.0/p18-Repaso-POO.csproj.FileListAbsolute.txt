@@ -1,0 +1,5 @@
+C:\REPO\DevAppWeb21\p18-Repaso-POO2\obj\Debug\net5.0\p18-Repaso-POO.csproj.AssemblyReference.cache
+C:\REPO\DevAppWeb21\p18-Repaso-POO2\obj\Debug\net5.0\p18-Repaso-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPO\DevAppWeb21\p18-Repaso-POO2\obj\Debug\net5.0\p18-Repaso-POO.AssemblyInfoInputs.cache
+C:\REPO\DevAppWeb21\p18-Repaso-POO2\obj\Debug\net5.0\p18-Repaso-POO.AssemblyInfo.cs
+C:\REPO\DevAppWeb21\p18-Repaso-POO2\obj\Debug\net5.0\p18-Repaso-POO.csproj.CoreCompileInputs.cache
